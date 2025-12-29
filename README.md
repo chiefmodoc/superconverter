@@ -71,7 +71,7 @@ Uma barra de progresso aparecerá e os novos arquivos serão criados na mesma pa
 **Demonstração**
 
 **Veja o vídeo de exemplo:**
-    /docs/superconverter-tool.mp4)
+    superconverter-tool.mp4)
 *************************
 
 ## Desinstalação
