@@ -85,6 +85,6 @@ nautilus -q
 
 ## Autor
 
-- **Ney Designer**
+- **chiefmodoc**
 
 ## [![ko-fi](https://camo.githubusercontent.com/201ef269611db7eb6b5d08e9f756ab8980df3014b64492770bdf13a6ed924641/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/K3K01KWCZW)
