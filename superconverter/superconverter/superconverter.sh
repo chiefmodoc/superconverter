@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # Título: Nautilus Super Image Converter (Versão 3.0 - Com JXL)
-# Autor: chiefmodoc
+# Autor: criativotech
 # Atualização: Adicionado suporte a JXL, HEIC e HEIF no menu.
 # ==============================================================================
 
